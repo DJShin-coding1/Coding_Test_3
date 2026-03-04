@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug*/
+Release*/
+x64/Debug*/
+x64/Release*/
+
+# Visual C++
+*.ilk
+*.log
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ipch
+
+# Compiled source
+*.exe
+*.dll
+*.lib
+*.app
+
+# Others
+*.cache
+*.csproj.user
+*.vcxproj.user
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider
+.idea/
